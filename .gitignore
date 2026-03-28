@@ -1,0 +1,12 @@
+# Agent runtime files — never commit these
+agents/dev-*.log
+agents/review-*.log
+agents/dev-handoff-*.md
+agents/dev-handoff.md
+agents/reviewer-feedback-*.md
+agents/reviewer-feedback.md
+agents/reviewer-feedback.md
+agents/dev-resume.md
+agents/dev-prompt.md
+agents/prompt-*.tmp
+agents/run-*.sh
